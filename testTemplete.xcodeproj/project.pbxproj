@@ -56,6 +56,7 @@
 		E31AB5C129E1BFCA0052C8F3 /* testTemplete */ = {
 			isa = PBXGroup;
 			children = (
+				E31AB5DE29E2C5090052C8F3 /* test */,
 				E31AB5C229E1BFCA0052C8F3 /* AppDelegate.swift */,
 				E31AB5C429E1BFCA0052C8F3 /* SceneDelegate.swift */,
 				E31AB5C629E1BFCA0052C8F3 /* ViewController.swift */,
@@ -65,6 +66,13 @@
 				E31AB5D029E1BFCC0052C8F3 /* Info.plist */,
 			);
 			path = testTemplete;
+			sourceTree = "<group>";
+		};
+		E31AB5DE29E2C5090052C8F3 /* test */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
