@@ -56,6 +56,7 @@
 		E31AB5C129E1BFCA0052C8F3 /* testTemplete */ = {
 			isa = PBXGroup;
 			children = (
+				E31AB5E129E2D2F10052C8F3 /* test2 */,
 				E31AB5DE29E2C5090052C8F3 /* test */,
 				E31AB5C229E1BFCA0052C8F3 /* AppDelegate.swift */,
 				E31AB5C429E1BFCA0052C8F3 /* SceneDelegate.swift */,
@@ -71,8 +72,39 @@
 		E31AB5DE29E2C5090052C8F3 /* test */ = {
 			isa = PBXGroup;
 			children = (
+				E31AB5E329E2D3050052C8F3 /* view */,
 			);
 			path = test;
+			sourceTree = "<group>";
+		};
+		E31AB5E129E2D2F10052C8F3 /* test2 */ = {
+			isa = PBXGroup;
+			children = (
+				E31AB5E229E2D2FC0052C8F3 /* view */,
+			);
+			path = test2;
+			sourceTree = "<group>";
+		};
+		E31AB5E229E2D2FC0052C8F3 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				E31AB5E629E2D4520052C8F3 /* testTemplete */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		E31AB5E329E2D3050052C8F3 /* view */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		E31AB5E629E2D4520052C8F3 /* testTemplete */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = testTemplete;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
